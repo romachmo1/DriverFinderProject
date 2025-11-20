@@ -20,9 +20,3 @@
 - .NET 8.0
 - NUnit 3.14.0
 - BenchmarkDotNet 0.13.12
-
-## Установка и запуск
-
-### Восстановление зависимостей:
-```bash
-dotnet restore
